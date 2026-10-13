@@ -1,0 +1,31 @@
+﻿ID_EstA;EstudianteA;Programa_EstA;ID_EstB;EstudianteB;Programa_EstB;Trabajos_juntos;Tipo
+1;Ana;Ing. de Sistemas;2;Brayan;Ing. Electrónica;3;Entre programas
+1;Ana;Ing. de Sistemas;3;Camilo;Ing. de Sistemas;2;Mismo programa
+1;Ana;Ing. de Sistemas;4;Daniela;Ing. de Sistemas;4;Mismo programa
+1;Ana;Ing. de Sistemas;5;Esteban;Ing. de Sistemas;2;Mismo programa
+1;Ana;Ing. de Sistemas;6;Fernanda;Ing. de Sistemas;1;Mismo programa
+1;Ana;Ing. de Sistemas;7;Gabriel;Ing. de Sistemas;2;Mismo programa
+2;Brayan;Ing. Electrónica;3;Camilo;Ing. de Sistemas;3;Entre programas
+3;Camilo;Ing. de Sistemas;4;Daniela;Ing. de Sistemas;1;Mismo programa
+4;Daniela;Ing. de Sistemas;5;Esteban;Ing. de Sistemas;2;Mismo programa
+5;Esteban;Ing. de Sistemas;6;Fernanda;Ing. de Sistemas;1;Mismo programa
+6;Fernanda;Ing. de Sistemas;7;Gabriel;Ing. de Sistemas;3;Mismo programa
+8;Helena;Ing. Industrial;9;Iván;Ing. Industrial;3;Mismo programa
+8;Helena;Ing. Industrial;10;Juliana;Ing. Electrónica;2;Entre programas
+9;Iván;Ing. Industrial;11;Kevin;Ing. Industrial;2;Mismo programa
+10;Juliana;Ing. Electrónica;11;Kevin;Ing. Industrial;3;Entre programas
+10;Juliana;Ing. Electrónica;12;Laura;Ing. Industrial;1;Entre programas
+11;Kevin;Ing. Industrial;13;Mateo;Ing. Industrial;2;Mismo programa
+12;Laura;Ing. Industrial;13;Mateo;Ing. Industrial;3;Mismo programa
+8;Helena;Ing. Industrial;12;Laura;Ing. Industrial;1;Mismo programa
+14;Natalia;Ing. Ambiental;15;Óscar;Ing. Ambiental;4;Mismo programa
+14;Natalia;Ing. Ambiental;16;Paula;Ing. Ambiental;2;Mismo programa
+15;Óscar;Ing. Ambiental;16;Paula;Ing. Ambiental;2;Mismo programa
+16;Paula;Ing. Ambiental;17;Quique;Ing. Ambiental;3;Mismo programa
+17;Quique;Ing. Ambiental;18;Rosa;Ing. Ambiental;2;Mismo programa
+14;Natalia;Ing. Ambiental;18;Rosa;Ing. Ambiental;1;Mismo programa
+19;Sofía;Ing. Industrial;7;Gabriel;Ing. de Sistemas;2;Entre programas
+19;Sofía;Ing. Industrial;10;Juliana;Ing. Electrónica;2;Entre programas
+19;Sofía;Ing. Industrial;16;Paula;Ing. Ambiental;1;Entre programas
+19;Sofía;Ing. Industrial;13;Mateo;Ing. Industrial;1;Mismo programa
+4;Daniela;Ing. de Sistemas;8;Helena;Ing. Industrial;1;Entre programas

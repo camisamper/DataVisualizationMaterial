@@ -1,0 +1,84 @@
+﻿Sector,Sub_rubro,Tipo_gasto,Monto_miles_millones_COP,Base_cifra_sector
+Educación,SGP Educación (nómina docente territorial),Funcionamiento,58132,Cifra publicada
+Educación,Universidades públicas,Funcionamiento,9020,Cifra publicada
+Educación,Programa de Alimentación Escolar (PAE),Inversión,6014,Cifra publicada
+Educación,ICETEX y matrícula cero,Inversión,5011,Cifra publicada
+Educación,Infraestructura educativa,Inversión,4009,Cifra publicada
+Educación,Ministerio y entidades adscritas,Funcionamiento,6014,Cifra publicada
+Salud y Protección Social,Aseguramiento régimen subsidiado (ADRES),Funcionamiento,52067,Cifra publicada
+Salud y Protección Social,SGP Salud,Funcionamiento,14018,Cifra publicada
+Salud y Protección Social,Salud pública y promoción,Inversión,4005,Cifra publicada
+Salud y Protección Social,Red hospitalaria pública,Inversión,5006,Cifra publicada
+Salud y Protección Social,Ministerio y entidades adscritas,Funcionamiento,3004,Cifra publicada
+Defensa y Policía,Policía Nacional,Funcionamiento,19710,Cifra publicada
+Defensa y Policía,Ejército Nacional,Funcionamiento,17082,Cifra publicada
+Defensa y Policía,Armada Nacional,Funcionamiento,5256,Cifra publicada
+Defensa y Policía,Fuerza Aeroespacial,Funcionamiento,3942,Cifra publicada
+Defensa y Policía,Sanidad y retiro militar,Funcionamiento,13140,Cifra publicada
+Defensa y Policía,Modernización y equipamiento,Inversión,6570,Cifra publicada
+Hacienda y Crédito Público,SGP propósito general y agua,Funcionamiento,13440,Cifra publicada
+Hacienda y Crédito Público,Fondos de contingencias y garantías,Funcionamiento,8400,Cifra publicada
+Hacienda y Crédito Público,DIAN y gestión tributaria,Funcionamiento,5040,Cifra publicada
+Hacienda y Crédito Público,Transferencias a entidades territoriales,Inversión,6720,Cifra publicada
+Servicio de la deuda,Intereses deuda interna,Servicio de la deuda,45180,Cifra publicada
+Servicio de la deuda,Intereses deuda externa,Servicio de la deuda,22088,Cifra publicada
+Servicio de la deuda,Amortización deuda interna,Servicio de la deuda,20080,Cifra publicada
+Servicio de la deuda,Amortización deuda externa,Servicio de la deuda,13052,Cifra publicada
+Trabajo,Colpensiones (régimen público de pensiones),Funcionamiento,37200,Estimación
+Trabajo,Fondo de Pensiones Públicas (Fopep),Funcionamiento,12000,Estimación
+Trabajo,Colombia Mayor (adulto mayor),Inversión,4800,Estimación
+Trabajo,SENA,Inversión,4800,Estimación
+Trabajo,Ministerio y entidades adscritas,Funcionamiento,1200,Estimación
+Inclusión Social,Renta Ciudadana,Inversión,12600,Estimación
+Inclusión Social,Renta Joven,Inversión,4200,Estimación
+Inclusión Social,ICBF primera infancia,Inversión,8400,Estimación
+Inclusión Social,Prosperidad Social y otros,Funcionamiento,2800,Estimación
+Transporte,Vías nacionales (Invías),Inversión,6400,Estimación
+Transporte,Concesiones viales (ANI),Inversión,5600,Estimación
+Transporte,Aeronáutica Civil,Inversión,2400,Estimación
+Transporte,Ministerio y entidades adscritas,Funcionamiento,1600,Estimación
+Rama Judicial,Nómina de despachos judiciales,Funcionamiento,7600,Estimación
+Rama Judicial,Infraestructura y tecnología judicial,Inversión,1900,Estimación
+Minas y Energía,Subsidios de energía y gas,Inversión,6300,Estimación
+Minas y Energía,Transición energética,Inversión,1800,Estimación
+Minas y Energía,Ministerio y entidades adscritas,Funcionamiento,900,Estimación
+Fiscalía,Operación y nómina,Funcionamiento,6160,Estimación
+Fiscalía,Investigación y tecnología forense,Inversión,840,Estimación
+"Vivienda, Ciudad y Territorio",Subsidios de vivienda,Inversión,4800,Estimación
+"Vivienda, Ciudad y Territorio",Agua potable y saneamiento,Inversión,2800,Estimación
+"Vivienda, Ciudad y Territorio",Ministerio y entidades adscritas,Funcionamiento,400,Estimación
+Justicia y del Derecho,Sistema penitenciario (INPEC/USPEC),Funcionamiento,3600,Estimación
+Justicia y del Derecho,Acceso a la justicia,Inversión,900,Estimación
+Agricultura,Reforma agraria (ANT),Inversión,1800,Estimación
+Agricultura,Crédito y apoyo al productor,Inversión,1800,Estimación
+Agricultura,Ministerio y entidades adscritas,Funcionamiento,900,Estimación
+Organismos de Control,Contraloría,Funcionamiento,1650,Estimación
+Organismos de Control,Procuraduría,Funcionamiento,1254,Estimación
+Organismos de Control,Defensoría del Pueblo,Funcionamiento,396,Estimación
+Tecnologías de la Información,Conectividad regional,Inversión,1750,Estimación
+Tecnologías de la Información,Ministerio y entidades adscritas,Funcionamiento,750,Estimación
+Registraduría,Organización electoral,Funcionamiento,1300,Estimación
+Registraduría,Identificación ciudadana,Funcionamiento,700,Estimación
+Relaciones Exteriores,Embajadas y consulados,Funcionamiento,1200,Estimación
+Relaciones Exteriores,Migración Colombia,Funcionamiento,400,Estimación
+Interior,Unidad Nacional de Protección,Funcionamiento,1125,Estimación
+Interior,Ministerio y entidades adscritas,Funcionamiento,375,Estimación
+Ambiente,Parques Nacionales,Inversión,600,Estimación
+Ambiente,Gestión ambiental y clima,Inversión,900,Estimación
+Igualdad y Equidad,Programas para poblaciones vulnerables,Inversión,1040,Estimación
+Igualdad y Equidad,Ministerio,Funcionamiento,260,Estimación
+"Ciencia, Tecnología e Innovación",Becas y proyectos de investigación,Inversión,510,Estimación
+"Ciencia, Tecnología e Innovación",Ministerio,Funcionamiento,90,Estimación
+Cultura y Deporte,Deporte,Inversión,935,Estimación
+Cultura y Deporte,Cultura y patrimonio,Inversión,765,Estimación
+Planeación Nacional,Inversión regional y proyectos estratégicos,Inversión,2000,Estimación
+Planeación Nacional,Funcionamiento DNP,Funcionamiento,500,Estimación
+Presidencia,Programas presidenciales,Inversión,900,Estimación
+Presidencia,Funcionamiento,Funcionamiento,600,Estimación
+"Comercio, Industria y Turismo",Promoción empresarial y turismo,Inversión,1050,Estimación
+"Comercio, Industria y Turismo",Ministerio y entidades adscritas,Funcionamiento,450,Estimación
+Congreso,Senado,Funcionamiento,550,Estimación
+Congreso,Cámara de Representantes,Funcionamiento,450,Estimación
+Otros sectores,Estadística (DANE),Funcionamiento,3570,Estimación
+Otros sectores,Función Pública y ESAP,Funcionamiento,2380,Estimación
+Otros sectores,Otras entidades nacionales,Funcionamiento,5950,Estimación
